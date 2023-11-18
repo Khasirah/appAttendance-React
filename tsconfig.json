@@ -23,9 +23,9 @@
     // addition options
     "baseUrl": ".",
     "paths": {
-      "src/*": [".src/*"]
+      "src/*": ["./src/*"]
     }
   },
-  "include": ["appAttendance-React/src"],
+  "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

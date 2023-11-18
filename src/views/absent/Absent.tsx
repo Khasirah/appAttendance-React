@@ -1,7 +1,7 @@
 export default function Absent () {
     return (
         <div>
-            <p>Ini adalah halaman home</p>
+            <p>Saya tidak hadir karena</p>
             
         </div>
 

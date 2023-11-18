@@ -1,7 +1,7 @@
 export default function Thanks() {
     return (
         <div>
-            <p>Ini adalah halaman home</p>
+            <p>Terima Kasih sudah melakukan absensi</p>
             
         </div>
 

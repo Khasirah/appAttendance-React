@@ -1,10 +1,10 @@
-import notebook from 'assets/notebook.png'
+import { IMAGE } from "src/assets/Image";
 
 export default function Attendance () {
     return (
         <div>
             <p>Ini adalah halaman absen</p>
-            <img src={notebook} alt="" />
+            <img src={IMAGE.notebook} alt="" />
         </div>
     )
   
